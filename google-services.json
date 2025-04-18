@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "870748179561",
+    "project_id": "lab4message",
+    "storage_bucket": "lab4message.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+
+        "android_client_info": {
+          "package_name": "com.lab4mobapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
